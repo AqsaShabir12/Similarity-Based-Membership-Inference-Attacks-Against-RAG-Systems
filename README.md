@@ -91,3 +91,9 @@ pip install -r requirements.txt
 python main.py
 
 ```
+
+---
+
+## Full Research Report
+
+A complete academic-style report (two-column IEEE format) is available: ![](A_Lightweight_Empirical_Analysis_of_Similarity_Based_Membership_Inference_Attacks_Against_Retrieval_Augmented_Generation_Systems.pdf) 
