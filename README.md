@@ -96,4 +96,9 @@ python main.py
 
 ## Full Research Report
 
-A complete academic-style report (two-column IEEE format) is available: ![](A_Lightweight_Empirical_Analysis_of_Similarity_Based_Membership_Inference_Attacks_Against_Retrieval_Augmented_Generation_Systems.pdf) 
+A complete academic-style, two-column IEEE-format report is available here:
+
+[**A Lightweight Empirical Analysis of Similarity-Based Membership Inference Attacks Against Retrieval-Augmented Generation Systems (PDF)**](A_Lightweight_Empirical_Analysis_of_Similarity_Based_Membership_Inference_Attacks_Against_Retrieval_Augmented_Generation_Systems.pdf)
+
+You can download or view the PDF directly from the repository.
+
